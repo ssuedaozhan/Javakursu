@@ -1,0 +1,16 @@
+Acces Modifiers (Erisim belirtecleri)
+public , private , protected, default (hicbirsey yazilmayan durum , friendly )
+
+1.classin icinden erisim
+2.paketin icinden erisim
+3. projenin icinden erisim
+public : projenin her tarafindan erisim , yani diger tum paketler erisebilir
+class , metod , field
+
+default : (friendly): bir belirtec yazilmazsa : sadece bulundugu pakkettekiler erisebilir .
+class , metod , field
+
+private : sadece classin icinden erisim :
+metod , field
+
+protected : default ile ayni calisiri , tek farkini birkac konu sonra gorulecek
